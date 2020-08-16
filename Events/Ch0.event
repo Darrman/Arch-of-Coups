@@ -15,7 +15,7 @@ POIN $0 $0 $0 $0 $0 $0
 POIN BeginningScene EndingScene
 
 Units:
-UNIT Mario Brigand 0x00 Level(1, Ally, 0) [1,9] 0x00 0x00 0x0 0x00 [Hammer, Vulnerary] NoAI 
+UNIT Mario EphraimLord 0x00 Level(1, Ally, 0) [1,9] 0x00 0x00 0x0 0x00 [Hammer, Vulnerary] NoAI 
 UNIT
 
 
