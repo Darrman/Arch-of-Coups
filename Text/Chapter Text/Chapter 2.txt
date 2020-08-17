@@ -1,0 +1,32 @@
+## Ch2Opening
+[MidLeft][LoadDQHero]
+[MidRight][LoadMario]
+Pirates! Mamma mia![AN]
+[MidLeft]
+Thou hast a duty to defend[N]
+the civilians! We fight![AN]
+We must [Red]defeat the head[N]
+pirate[Red] to claim victory.[A][X]
+
+## Ch2Village
+[MidRight][LoadCurrent]
+[FarLeft][LoadRed]
+[Left][LoadNess]
+Okay![A]
+[FarLeft]
+...I like bicycles. We[N]
+ride together. Let's go.[A][X]
+
+## Ch2Ending
+[MidRight][LoadBowser]
+[MidLeft][LoadDQHero]
+Thy village is saved.[A]
+[MidRight]
+So do any of you know how[N]
+to sail this ship? I can[AN]
+only sail airships. Boats?[N]
+I don't have a clue.[A]
+#Convenient boat man:
+#Figure out who he is later
+[FarFarLeft]
+I can.[A][X]
