@@ -51,7 +51,7 @@ ALIGN 4
 BeginningScene:
 LOAD1 0x1 Units
 LOAD1 0x1 Bad
-//Text(Ch6Opening)
+Text(Ch6Opening)
 ENDA
 
 EndingScene:
@@ -61,11 +61,11 @@ ENDA
 
 // Events
 House1:
-//Text
+Text(Ch6House1)
 ENDA
 
 House2:
-//Text
+Text(Ch6House2)
 ENDA
 
 // Manual Movement
