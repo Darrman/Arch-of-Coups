@@ -58,6 +58,14 @@ Rydia_Mug:
 #incext PortraitFormatter "Rydia.png"
 setMugEntry(0x1c, Rydia_Mug, 4,8,5,6)
 
+Lise_Mug:
+#incext PortraitFormatter "Lise.png"
+setMugEntry(0x16, Lise_Mug, 4,7,4,5)
+
+Sundown_Mug:
+#incext PortraitFormatter "Sundown.png"
+setMugEntry(0x18, Sundown_Mug, 3,7,2,5)
+
 //Celica_Mug:
 //#incext PortraitFormatter "Celica.png"
 //setMugEntry(0x1d, Celica_Mug, 3,6,3,4)
