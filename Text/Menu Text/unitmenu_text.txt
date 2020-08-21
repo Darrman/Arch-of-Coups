@@ -87,3 +87,10 @@ DEBUG: Edit this unit's skill set.[X]
 
 Skip this chapter.[X]
 
+
+## UMText_Debug
+ Debug[X]
+
+## UMDesc_Debug
+Opens the Debug-O-Matic.[N]
+I think. I hope. Please.[X]
