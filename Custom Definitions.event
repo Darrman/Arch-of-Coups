@@ -34,6 +34,9 @@
 #define Kazuya 12
 #define Rydia 13
 #define Purim 14
+//Ephraim who?
+#define Lise 16
+#define Sundown 17
 #define Bahamut 0x3E
 #define Pascal 0x3F
 #define EnemyBowser 0x68

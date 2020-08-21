@@ -16,7 +16,7 @@ POIN BeginningScene EndingScene
 
 Units:
 UNIT Mario Brigand 0x00 Level(1, Ally, 0) [15,10] 0x00 0x00 0x0 0x00 [IronAxe] NoAI 
-UNIT 0x10 Soldier 0x00 Level(1, Ally, 0) [16,11] 0x00 0x00 0x0 0x00 [IronAxe] NoAI //figure out who later
+UNIT Lise Recruit_2 0x00 Level(1, Ally, 0) [16,11] 0x00 0x00 0x0 0x00 [IronLance, Javelin] NoAI
 UNIT
 
 
@@ -77,9 +77,9 @@ House3:
 ENDA
 
 Village1:
-//Text
 //Together we Ride
-//Load recruit
+Text(Ch7RecruitingSundown)
+LOAD1 0x1 TheSundownKid
 ENDA
 
 Village2:
@@ -93,7 +93,7 @@ ENDA
 
 // Units
 Bad:
-UNIT 0x4C Brigand 0x00 Level(7, Enemy, 1) [8,3] 0x00 0x00 0x0 0x00 [SteelAxe] NeverMoveAI //Boss, some random ID
+UNIT 0x4C Brigand 0x00 Level(7, Enemy, 0) [8,3] 0x00 0x00 0x0 0x00 [SteelAxe] NeverMoveAI //Boss, some random ID
 UNIT 0x80 Brigand 0x00 Level(3, Enemy, 1) [6,2] 0x00 0x00 0x0 0x00 [IronAxe] BrigandAI
 UNIT 0x80 Brigand 0x00 Level(3, Enemy, 1) [0,0] 0x00 0x00 0x0 0x00 [IronAxe] BrigandAI
 UNIT 0x80 Brigand 0x00 Level(3, Enemy, 1) [9,6] 0x00 0x00 0x0 0x00 [IronAxe] PursueWithoutHeedAI 
@@ -107,5 +107,8 @@ UNIT 0x80 Archer 0x00 Level(3, Enemy, 1) [16,5] 0x00 0x00 0x0 0x00 [IronBow] Pur
 UNIT 0x80 Archer 0x00 Level(3, Enemy, 1) [0,6] 0x00 0x00 0x0 0x00 [IronBow] ChaseOnceApproachedAI
 UNIT
 
+TheSundownKid:
+UNIT Sundown Archer 0x00 Level(4, Ally, 0) [15,3] 0x00 0x00 0x0 0x00 [IronBow] NoAI
+UNIT
 
 // Shop Data

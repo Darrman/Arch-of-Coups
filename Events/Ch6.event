@@ -55,6 +55,7 @@ Text(Ch6Opening)
 ENDA
 
 EndingScene:
+LOAD1 0x1 Rolante
 //Text(Ch6Ending)
 MNCH 0x07
 ENDA
@@ -75,10 +76,13 @@ ENDA
 // Units
 Bad:
 UNIT 0x4B Fighter 0x00 Level(4, Enemy, 1) [13,8] 0x00 0x00 0x0 0x00 [IronAxe] NeverMoveAI //Boss, some random ID
-UNIT 0x80 Soldier 0x00 Level(1, Enemy, 1) [5,2] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
-UNIT 0x80 Soldier 0x00 Level(1, Enemy, 1) [8,6] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
-UNIT 0x80 Soldier 0x00 Level(1, Enemy, 1) [12,9] 0x00 0x00 0x0 0x00 [IronLance] AttackInRangeAI //Boss, some random ID
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [5,2] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [8,6] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [12,9] 0x00 0x00 0x0 0x00 [IronLance] AttackInRangeAI //Boss, some random ID
 UNIT
 
+Rolante:
+UNIT Lise Recruit_2 0x00 Level(3, Ally, 0) [13,9] 0x00 0x00 0x0 0x00 [IronLance, Javelin] NoAI
+UNIT
 
 // Shop Data

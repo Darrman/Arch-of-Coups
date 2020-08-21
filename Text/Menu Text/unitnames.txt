@@ -103,6 +103,20 @@ Purim[X]
 Some evil guy stole her boyfriend.[N]
 She didn't take too kindly to it.[X]
 
+##Name_Lise
+Lise[X]
+
+##Desc_Lise
+I'm sorry, I picked Duran as the[N]
+hero in my SD3 playthrough.[X]
+
+##Name_Sundown
+Sundown[X]
+
+##Desc_Sundown
+A cowboy who fights big gangs[N]
+by tripping them with traps.[X]
+
 ## GenericName
 Enemy[X]
 
@@ -148,6 +162,18 @@ Bahamut[X]
 ## BahamutDesc
 Has a bad habit of counting[N]
 down to his ultimate attack.[X]
+
+## Ch6BossName
+Ch. 6 Boss[X]
+
+## Ch6BossDesc
+Boss of Chapter 6.[X]
+
+## Ch7BossName
+Ch. 7 Boss[X]
+
+## Ch7BossDesc
+Boss of Chapter 7.[X]
 
 ##Name_Tye
 Tye[X]

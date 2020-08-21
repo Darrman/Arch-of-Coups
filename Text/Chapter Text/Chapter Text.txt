@@ -5,3 +5,4 @@
 #include "Chapter 4.txt"
 #include "Chapter 5.txt"
 #include "Chapter 6.txt"
+#include "Chapter 7.txt"

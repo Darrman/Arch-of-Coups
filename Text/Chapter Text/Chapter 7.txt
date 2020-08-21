@@ -1,0 +1,4 @@
+## Ch7RecruitingSundown
+[MR][LoadCurrent]
+[ML][LoadFace][0x18][0x01]
+Howdy.[A]PLACEHOLDER[A][X]
