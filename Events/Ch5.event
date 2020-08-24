@@ -110,7 +110,7 @@ ENDA
 
 // Units
 Bad:
-UNIT Kaga Necromancer 0x00 Level(5, Enemy, 1) [10,1] 0x00 0x00 0x0 0x00 [Nosferatu] NeverMoveAI 
+UNIT Kaga Druid 0x00 Level(1, Enemy, 1) [10,1] 0x00 0x00 0x0 0x00 [Nosferatu] NeverMoveAI 
 //UNIT 0x80 DracoZombie 0x00 Level(2, Enemy, 1) [0,0] 0x00 0x00 0x0 0x00 [WretchedAir] PursueWithoutHeedAI 
 //UNIT 0x80 DracoZombie 0x00 Level(2, Enemy, 1) [19,0] 0x00 0x00 0x0 0x00 [WretchedAir] PursueWithoutHeedAI 
 UNIT 0x80 General 0x00 Level(1, Enemy, 1) [18,8] 0x00 0x00 0x0 0x00 [SilverSword] NeverMoveAI 
@@ -135,7 +135,7 @@ UNIT 0x80 Mage 0x00 Level(10, Enemy, 1) [11,3] 0x00 0x00 0x0 0x00 [Elfire] Never
 UNIT
 
 DragonMan:
-UNIT Ryu DracoZombie 0x00 Level(12, Ally, 1) [1,11] 0x00 0x00 0x0 0x00 [HolyDragonStone] PursueWithoutHeedAI 
+UNIT Ryu DracoZombie 0x00 Level(12, Ally, 0) [1,11] 0x00 0x00 0x0 0x00 [WretchedAir] PursueWithoutHeedAI 
 UNIT
 
 
