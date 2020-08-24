@@ -8,63 +8,63 @@ setMugEntry(0x2, Mario_Mug, 3, 7, 3, 5)
 
 DragonWarrior_Mug:
 #incext PortraitFormatter "DragonWarrior.png"
-setMugEntry(0x7, DragonWarrior_Mug, 4,8,4,6)
+setMugEntry(0x3, DragonWarrior_Mug, 4,8,4,6)
 
 Bowser_Mug:
 #incext PortraitFormatter "Bowser.png"
-setMugEntry(0x5, Bowser_Mug, 3,7,3,4)
+setMugEntry(0x4, Bowser_Mug, 3,7,3,4)
 
 Ness_Mug:
 #incext PortraitFormatter "Ness.png"
-setMugEntry(0x9, Ness_Mug, 4,7,4,5)
+setMugEntry(0x5, Ness_Mug, 4,7,4,5)
 
 Butz_Mug:
 #incext PortraitFormatter "Butz.png"
-setMugEntry(0xc, Butz_Mug, 5,5,5,3)
+setMugEntry(0x6, Butz_Mug, 5,5,5,3)
 
 Purim_Mug:
 #incext PortraitFormatter "Purim.png"
-setMugEntry(0xe, Purim_Mug, 3,8,3,6)
+setMugEntry(0x7, Purim_Mug, 3,8,3,6)
 
 Red_Mug:
 #incext PortraitFormatter "Red.png"
-setMugEntry(0x10, Red_Mug, 3,5,3,3)
+setMugEntry(0x8, Red_Mug, 3,5,3,3)
 
 Kazuya_Mug:
 #incext PortraitFormatter "Kazuya.png"
-setMugEntry(0x13, Kazuya_Mug, 4,6,4,4)
+setMugEntry(0x9, Kazuya_Mug, 4,6,4,4)
 
 Ryu_Mug:
 #incext PortraitFormatter "Ryu.png"
-setMugEntry(0x16, Ryu_Mug, 4,8,3,6)
+setMugEntry(0xa, Ryu_Mug, 4,8,3,6)
 
 Crono_Mug:
 #incext PortraitFormatter "Crono.png"
-setMugEntry(0x18, Crono_Mug, 4,8,4,6)
+setMugEntry(0xb, Crono_Mug, 4,8,4,6)
 
 Terra_Mug:
 #incext PortraitFormatter "Terra.png"
-setMugEntry(0x19, Terra_Mug, 3,8,3,6)
+setMugEntry(0xc, Terra_Mug, 3,8,3,6)
 
 Cecil_Mug:
 #incext PortraitFormatter "Cecil.png"
-setMugEntry(0x1a, Cecil_Mug, 3,7,3,5)
+setMugEntry(0xd, Cecil_Mug, 3,7,3,5)
 
 Marle_Mug:
 #incext PortraitFormatter "Marle.png"
-setMugEntry(0x1b, Marle_Mug, 4,8,4,6)
+setMugEntry(0xe, Marle_Mug, 4,8,4,6)
 
 Rydia_Mug:
 #incext PortraitFormatter "Rydia.png"
-setMugEntry(0x1c, Rydia_Mug, 4,8,5,6)
+setMugEntry(0xf, Rydia_Mug, 4,8,5,6)
 
 Lise_Mug:
 #incext PortraitFormatter "Lise.png"
-setMugEntry(0x16, Lise_Mug, 4,7,4,5)
+setMugEntry(0x10, Lise_Mug, 4,7,4,5)
 
 Sundown_Mug:
 #incext PortraitFormatter "Sundown.png"
-setMugEntry(0x18, Sundown_Mug, 3,7,2,5)
+setMugEntry(0x11, Sundown_Mug, 3,7,2,5)
 
 //Celica_Mug:
 //#incext PortraitFormatter "Celica.png"

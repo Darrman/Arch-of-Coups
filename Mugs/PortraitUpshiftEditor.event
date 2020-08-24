@@ -36,21 +36,21 @@ PortraitShiftEdit:
 
 //The default table is duplicated below.
 
-BYTE 0 0 1 1 1 1 1 1
+BYTE 0 0 1 1 1 1 0 1
 //Portrait ID 0x00, 0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07
-//Invalid, Blank placeholder, Mario, EirikaEyesClosed, Seth, Bowser, Franz, Dragon Warrior guy
+//Invalid, Blank placeholder, Mario, Dragon Warrior, Bowser, Ness, Butz, Purim
 
-BYTE 0 1 0 0 0 0 1 0
+BYTE 1 1 1 1 1 1 1 1
 //Portrait ID 0x08, 0x09, 0x0A, 0x0B, 0x0C, 0x0D, 0x0E, 0x0F
-//Vanessa, Ness, Neimi, NeimiEyesClosed, Butz, ColmEyesClosed, Purim, Innes
+//Red, Kazuya, Ryu, Crono, Terra, Cecil, Marle, Rydia
 
 //the first 16, 0x00 through 0x0F, all return 0
 
 
 //0x10 through 0x1F
-BYTE 1 0 0 0 0 0 1 0 
+BYTE 0 0 0 0 0 0 1 0 
 //Portrait ID 0x10, 0x11, 0x12, 0x13, 0x14, 0x15, 0x16, 0x17
-//Red, Natasha, NatashaEyesClosed, Kazuya, Ephraim, EphraimEyesClosed, Ryu, FordeEyesClosed
+//Lise, Sundown, NatashaEyesClosed, Kazuya, Ephraim, EphraimEyesClosed, Ryu, FordeEyesClosed
 
 BYTE 1 1 1 1 1 0 0 0 
 //Portrait ID 0x18, 0x19, 0x1A, 0x1B, 0x1C, 0x1D, 0x1E, 0x1F
