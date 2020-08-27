@@ -23,22 +23,22 @@ Dragonlord. Speaks ye olde.[X]
 Kaga[X]
 
 ##Desc_Kaga
-The man who made Fire Emblem.[N]
+Fire Emblem's creator.[N]
 Desires to be overthrown.[X]
 
 ##Name_Crono
 Crono[X]
 
 ##Desc_Crono
-Time travelling, history meddling,[N]
-convicted criminal...[X]
+Convicted kidnapper who's[N]
+broken out of Death Row.[X]
 
 ##Name_Marle
 Marle[X]
 
 ##Desc_Marle
-Time travelling, pretended to be[N]
-queen, allegedly kidnapped...[X]
+Bamboozled the residents of the[N]
+Middle Ages with ice cream.[X]
 
 ##Name_Terra
 Terra[X]
@@ -51,7 +51,7 @@ M-m-m-m-m-m-m-magic![X]
 Cecil[X]
 
 ##Desc_Cecil
-Keeps running around after crystals.[N]
+Keeps chasing after crystals.[N]
 Not sure if he's evil or not.[X]
 
 ##Name_Ness
@@ -65,8 +65,8 @@ joy than cycling. Alone.[X]
 Red[X]
 
 ##Desc_Red
-A Pokemon Master. Cycles in order[N]
-to travel at a reasonable pace.[X]
+Cycles in order to travel[N]
+at a reasonable pace.[X]
 
 ##Name_Butz
 Butz[X]
@@ -79,8 +79,8 @@ strange class for himself today.[X]
 Kazuya[X]
 
 ##Desc_Kazuya
-After his home was blown up,[N]
-he's taken to summoning demons.[X]
+He thinks "DEMONSUM.EXE" is[N]
+a perfectly safe programme.[X]
 
 ##Name_Rydia
 Rydia[X]
@@ -100,8 +100,8 @@ he fished with lod and bait.[X]
 Purim[X]
 
 ##Desc_Purim
-Some evil guy stole her boyfriend.[N]
-She didn't take too kindly to it.[X]
+An evil wizard stole her[N]
+boyfriend. She isn't happy.[X]
 
 ##Name_Lise
 Lise[X]
@@ -226,7 +226,7 @@ Haha Funny fire meme[N]
 wank Xdddd dab[X]
 
 ##KagaDesc
-The man who made Fire Emblem.[N]
+Fire Emblem's creator.[N]
 Desires to be overthrown.[X]
 
 ##MarfDesc
