@@ -66,6 +66,10 @@ Sundown_Mug:
 #incext PortraitFormatter "Sundown.png"
 setMugEntry(0x11, Sundown_Mug, 3,7,2,5)
 
+Sigurd_Mug:
+#incext PortraitFormatter "Sigurd.png"
+setMugEntry(0x12, Sigurd_Mug, 4,6,4,4)
+
 //Celica_Mug:
 //#incext PortraitFormatter "Celica.png"
 //setMugEntry(0x1d, Celica_Mug, 3,6,3,4)

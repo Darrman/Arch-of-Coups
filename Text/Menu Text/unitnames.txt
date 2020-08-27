@@ -117,6 +117,13 @@ Sundown[X]
 A cowboy who fights big gangs[N]
 by tripping them with traps.[X]
 
+##Name_Sigurd
+Sigurd[X]
+
+##Desc_Sigurd
+Touch his friends and he will[N]
+turn your kingdom into dust.[X]
+
 ## GenericName
 Enemy[X]
 

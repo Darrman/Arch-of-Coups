@@ -21,6 +21,7 @@ UNIT
 
 
 TurnBasedEvents:
+TurnEventPlayer(0x00, EnterSigurd, 3)
 END_MAIN
 
 CharacterBasedEvents:
@@ -87,6 +88,12 @@ Village2:
 //Item
 ENDA
 
+EnterSigurd:
+//Together we Ride
+LOAD1 0x1 LordZigludo
+CAM1 Sigurd
+ENDA
+
 // Manual Movement
 
 // Scripted Fights
@@ -109,6 +116,10 @@ UNIT
 
 TheSundownKid:
 UNIT Sundown Archer 0x00 Level(4, Ally, 0) [15,3] 0x00 0x00 0x0 0x00 [IronBow] NoAI
+UNIT
+
+LordZigludo:
+UNIT Sigurd Paladin 0x00 Level(1,Ally,0) [12,0] 0x00 0x00 0x0 0x00 [SilverSword, IronLance] NoAI
 UNIT
 
 // Shop Data

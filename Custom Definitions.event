@@ -37,6 +37,7 @@
 //Ephraim who?
 #define Lise 16
 #define Sundown 17
+#define Sigurd 18
 #define Bahamut 0x3E
 #define Pascal 0x3F
 #define EnemyBowser 0x68
