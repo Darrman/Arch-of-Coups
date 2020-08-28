@@ -38,4 +38,9 @@ BYTE 0x1
 BYTE DQHero
 BYTE 0x0
 
+MalletArray:
+BYTE 0x1
+BYTE Mario
+BYTE 0x0
+
 #endif // ADV_WEAPON_LOCKS

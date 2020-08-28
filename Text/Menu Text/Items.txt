@@ -54,7 +54,13 @@ right. Lv10 unneeded.[X]
 Ultra Hammer[X]
 
 ## UltraHammerDesc
-Eff. arm/cav. Mario's mallet.[X]
+The currently unused Falchion.[X]
+
+## MalletName
+Mallet[X]
+
+## MalletDesc
+Mario's horse/armour crusher.[X]
 
 ## ErdrickSwordName
 Erdrick's Sw.[X]

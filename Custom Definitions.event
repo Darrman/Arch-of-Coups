@@ -95,5 +95,7 @@
 #define CrystalSword 0xbd
 #define PKRockin 0xbe
 #define ErdrickSword 0xbf
+#define SpiritDust 0xc0
+#define Mallet 0xc1
 
 #endif
