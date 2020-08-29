@@ -82,7 +82,7 @@ ENDA
 
 // Units
 Bad:
-UNIT Bazba Bonewalker  0x00 Level(15, Enemy, 1) [0,9] 0x00 0x00 0x0 0x00 [SteelSword, Javelin] AttackInRangeAI 
+UNIT Bazba Bonewalker  0x00 Level(15, Enemy, 0) [0,9] 0x00 0x00 0x0 0x00 [SteelSword, Javelin] AttackInRangeAI 
 UNIT 0x80 Bonewalker 0x00 Level(10, Enemy, 1) [2,7] 0x00 0x00 0x0 0x00 [IronSword] PursueWithoutHeedAI 
 UNIT 0x80 Bonewalker 0x00 Level(10, Enemy, 1) [1,11] 0x00 0x00 0x0 0x00 [IronSword] PursueWithoutHeedAI 
 UNIT 0x80 Bonewalker 0x00 Level(10, Enemy, 1) [4,4] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI 
