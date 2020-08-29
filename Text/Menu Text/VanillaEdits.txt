@@ -1,5 +1,6 @@
 # 0x0309 LordDesc
-Lord Description, replace[.][X]
+A prominent figure from the[N]
+Mushroom Kingdom.[X]
 
 # 0x030A Lord2Desc
 Won't need this[.][X]
@@ -204,24 +205,24 @@ Phantom warriors who vanish[N]
 when attacked.[X]
 
 # 0x033E RevenantDesc
-Walking corpses that move slowly[NL]
-but attack with sharp claws.[X]
+Zombies that move slowly[NL]
+and attack with claws.[X]
 
 # 0x033F EntombedDesc
-Reanimated corpses. They're not fast,[.][NL]
-but their talons rend flesh with ease.[X]
+Reanimated corpses. Slow,[.][NL]
+but rend flesh with ease.[X]
 
 # 0x0340 BonewalkerDesc
-Dead warriors given will by dark magic.[.][NL]
-They wield a variety of weapons.[X]
+Dead warriors given will.[NL]
+Wield a variety of weapons.[X]
 
 # 0x0341 WightDesc
-Skeletons driven by terrible magic.[.][NL]
+Skeletons driven by magic.[NL]
 They can wield many weapons.[X]
 
 # 0x0342 BaelDesc
-Giant poisonous mountain spiders with[.][NL]
-venom-filled fangs.[.][X]
+Giant poisonous mountain spiders[N]
+with venom-filled fangs.[X]
 
 # 0x0343 ElderBaelDesc
 Magic-infused giant spiders.[NL]
@@ -232,19 +233,19 @@ One-eyed giants who use their[.][NL]
 strength to wield huge axes.[X]
 
 # 0x0345 MautheDoogDesc
-Blood-hungry demon dogs that attack[.][NL]
+Demon dogs that attack[.][NL]
 with keen-edged fangs.[X]
 
 # 0x0346 GwyligiDesc
-Savage, three-headed hellhounds.[NL]
-Their fangs are cruel death dealers.[X]
+Three-headed hellhounds.[NL]
+Their fangs deal out death.[X]
 
 # 0x0347 TarvosDesc
-Vile man-beasts who thunder into[NL]
-combat with colossal axes.[X]
+Vile man-beasts who fight[NL]
+with colossal axes.[X]
 
 # 0x0348 MaelduinDesc
-Immensely fast and strong creatures[.][NL]
+Fast and strong creatures[.][NL]
 who hunt with axes and bows.[X]
 
 # 0x0349 MogallDesc
@@ -252,12 +253,12 @@ Perilous floating orbs filled with[NL]
 blighting dark magic.[.][X]
 
 # 0x034A ArchMogallDesc
-Mogall whose dread power exceeds[NL]
+Mogall whose power exceeds[NL]
 that of their lesser cousins.[.][X]
 
 # 0x034B GorgonDesc
-Comely and cursed, these creatures[NL]
-turn all who behold them into stone.[X]
+Comely and cursed, these[N]
+creatures turn all into stone.[X]
 
 # 0x034C GorgonEggDesc
 Eggs of lovely and deadly gorgons.[X]
@@ -267,12 +268,12 @@ Malignant fiends who hunt with[NL]
 lances. They ride on fell wings.[X]
 
 # 0x034E DeathgoyleDesc
-Gargoyles empowered by magic. They[NL]
-are both swift and brutal.[X]
+Gargoyles empowered by magic.[NL]
+Swift and brutal.[X]
 
 # 0x034F DragonZombieDesc
-The revived corpse of a dragon. Its[.][NL]
-putrid breath decays all it touches.[X]
+The revived corpse of a dragon.[N]
+Its putrid breath decays all.[X]
 
 # 0x0350 DemonKingDesc
 This foul being is the master of the[NL]
@@ -289,6 +290,10 @@ ancestry with the saintly Latona.[.][X]
 # 0x0353
 The kingdom's highest authority. She[NL]
 is a popular ruler of great virtue.[.][X]
+
+# 0x0447
+
+The breath of a dragon corpse.[X]
 
 
 # 0x0542 LevelDesc
