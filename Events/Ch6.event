@@ -52,6 +52,8 @@ BeginningScene:
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
 Text(Ch6Opening)
+SVAL 0x3 Vulnerary
+GIVEITEMTO Mario
 ENDA
 
 EndingScene:
@@ -75,10 +77,10 @@ ENDA
 
 // Units
 Bad:
-UNIT 0x4B Fighter 0x00 Level(4, Enemy, 0) [13,8] 0x00 0x00 0x0 0x00 [IronAxe] NeverMoveAI //Boss, some random ID
-UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [5,2] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
-UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [8,6] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI //Boss, some random ID
-UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [12,9] 0x00 0x00 0x0 0x00 [IronLance] AttackInRangeAI //Boss, some random ID
+UNIT 0x4B Fighter 0x00 Level(4, Enemy, 0) [13,9] 0x00 0x00 0x0 0x00 [IronAxe] NeverMoveAI //Boss, shoved off the gate to reduce difficulty
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [5,2] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [8,6] 0x00 0x00 0x0 0x00 [IronLance] PursueWithoutHeedAI
+UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [12,9] 0x00 0x00 0x0 0x00 [IronLance] AttackInRangeAI 
 UNIT
 
 Rolante:
