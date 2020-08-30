@@ -10,6 +10,9 @@
     POIN DebugProjectName
     ORG FreeSpace
     
+    PROTECT 0xC89C90 0xc89C93
+    //corrupted pointer
+    
     DebugProjectName:
 //    String(Arch of Coups 2.0) errors for no reason, there *is* a matching bracket, you lying programme
     BYTE $41 $72 $63 $68 $20 $6F $66 $20 $43 $6F $75 $70 $73 $20 $32 $2E $30 $00 //Arch of Coups 2.0
