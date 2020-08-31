@@ -58,7 +58,7 @@ ENDA
 
 EndingScene:
 LOAD1 0x1 Rolante
-//Text(Ch6Ending)
+Text(Ch6Ending)
 MNCH 0x07
 ENDA
 
