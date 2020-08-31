@@ -1,10 +1,45 @@
 #include "drumfix_fe8.event"
 
-PUSH
-ORG 0x1001860
-#incbin "bin/custom_piano.bin"
-POP
+//PUSH
+//ORG 0x1001860
+//#incbin "bin/custom_piano.bin"
+//POP
 
 voicegroup000:
 #incbin "FE8_NI_Map_custompiano.bin"
 
+//Chrono Trigger Main Theme - Title Screen
+SongTable(0x43,ChronoTrigger,1)
+#include "Sme - Chrono Trigger.event"
+
+//Final Fantasy Mystic Quest: Battle - Player Phase Attack
+SongTable(0x19,FFMQBattle1,0)
+#include "Final Fantasy Mystic Quest - Battle 1 (RandomWizard).event"
+
+//Super Mario Bros. 2: Boss - Enemy Phase Attack
+SongTable(0x1A,SMB2Boss,0)
+#include "Super Mario Bros 2 - Boss (Scraiza).event"
+
+//Seiken Densetsu 3: Nuclear Fusion - Boss Battle
+SongTable(0x1B,NuclearFusion,0)
+#include "Seiken Densetsu 3 - Nuclear Fusion (MrGreen3339).event"
+
+//Fire Emblem 4: Vs. Julius - Kaga Battle
+SongTable(0x1C,VsJulius,0)
+#include "FE4 - Vs Julius (SurfingKyogre).event"
+
+//Final Fantasy 4: Red Wings - Chapter Music
+SongTable(0x0A,RedWings,1)
+#include "Final Fantasy 4 - Red Wings (RandomWizard).event"
+
+//Super Mario 64: Endless Stairs - Cutscene Music
+SongTable(0x57,EndlessStairs,1)
+#include "Super Mario 64 - Endless Stairs (Sme).event"
+
+//Fire Emblem 3: Under the Flag - Chapter Music
+SongTable(0x09,UnderTheFlag,1)
+#include "UnderThisFlag.event"
+
+//Fire Emblem 3: Army of Evil - Chapter Music
+SongTable(0x13,ArmyOfEvil,1)
+#include "ArmyOfDarkness.event"
