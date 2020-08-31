@@ -57,6 +57,7 @@ BeginningScene:
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
 Text(Plain_2,Ch7Opening)
+NoFade
 ENDA
 
 EndingScene:
@@ -98,6 +99,7 @@ EnterSigurd:
 //Together we Ride
 LOAD1 0x1 LordZigludo
 CAM1 Sigurd
+FlashCursor(60,Sigurd)
 Text(Plain_2,Ch7SigurdArrives)
 NoFade
 ENDA

@@ -54,6 +54,7 @@ LOAD1 0x1 Bad
 Text(Harbor,Ch6Opening)
 SVAL 0x3 Vulnerary
 GIVEITEMTO Mario
+NoFade
 ENDA
 
 EndingScene:
