@@ -54,6 +54,7 @@ END_MAIN
 ALIGN 4
 
 BeginningScene:
+MUSC Advance
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
 Text(Plain_2,Ch7Opening)
@@ -61,6 +62,7 @@ NoFade
 ENDA
 
 EndingScene:
+MUSC Victory
 Text(Woodland_Evening,Ch7Ending)
 MNCH 0x08
 ENDA
@@ -82,7 +84,7 @@ NoFade
 ENDA
 
 Village1:
-//Together we Ride
+MUSC Comrades
 Text(Village,Ch7RecruitingSundown)
 LOAD1 0x1 TheSundownKid
 NoFade
@@ -96,10 +98,10 @@ NoFade
 ENDA
 
 EnterSigurd:
-//Together we Ride
 LOAD1 0x1 LordZigludo
 CAM1 Sigurd
-FlashCursor(60,Sigurd)
+MUSC Comrades
+FlashCursor(Sigurd,60)
 Text(Plain_2,Ch7SigurdArrives)
 NoFade
 ENDA

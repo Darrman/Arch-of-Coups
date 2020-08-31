@@ -63,6 +63,7 @@ END_MAIN
 ALIGN 4
 
 BeginningScene:
+MUSC Indignation
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
 LOAD1 0x1 Bad2
@@ -71,6 +72,7 @@ NoFade
 GotoPrepScreen
 
 EndingScene:
+MUSC 0x57 //Endless Stairs
 Text(Temple_Ruins_Inside,Ch5Ending)
 EARTHQUAKE_START 0x100
 STAL 120

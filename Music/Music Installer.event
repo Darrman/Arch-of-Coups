@@ -29,8 +29,12 @@ SongTable(0x1C,VsJulius,0)
 #include "FE4 - Vs Julius (SurfingKyogre).event"
 
 //Final Fantasy 4: Red Wings - Chapter Music
-SongTable(0x0A,RedWings,1)
-#include "Final Fantasy 4 - Red Wings (RandomWizard).event"
+//SongTable(0x0A,RedWings,1)
+//#include "Final Fantasy 4 - Red Wings (RandomWizard).event"
+
+//Fire Emblem 5: Final Chapter - Chapter Music
+SongTable(0x0A,FE5FinalChapter,1)
+#include "FE5 - Threat Approaching - Final Chapter (SurfingKyogre).event"
 
 //Super Mario 64: Endless Stairs - Cutscene Music
 SongTable(0x57,EndlessStairs,1)

@@ -51,6 +51,7 @@ ALIGN 4
 BeginningScene:
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
+MUSC Lyon_OrganArrangement
 Text(Harbor,Ch6Opening)
 SVAL 0x3 Vulnerary
 GIVEITEMTO Mario
@@ -58,6 +59,7 @@ NoFade
 ENDA
 
 EndingScene:
+MUSC Victory
 LOAD1 0x1 Rolante
 Text(Castle_Hall,Ch6Ending)
 MNCH 0x07
