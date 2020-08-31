@@ -78,7 +78,7 @@
 
 // Not_Arch_Mage
 	setPalette(0x80,Not_Arch_Mage)
-	setCBSP(0x80,0x09,0x01,0x25)
+	setCBSP(0x80,0xFF,0x01,0x25)
 
 // Not_Arch_Sage
 	setPalette(0x81,Not_Arch_Sage)
@@ -202,7 +202,7 @@
 
 // Sigurd_Paladin
 	setPalette(0xAE,Sigurd_Paladin)
-	setCBSP(0xAE,0x19,0x03,0x07)
+	setCBSP(0xAE,Sigurd,0x03,Paladin)
 
 // Kaga_Dancer
 	setPalette(0xAF,Kaga_Dancer)

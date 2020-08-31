@@ -24,12 +24,12 @@ End Kaga[X]
 No chapter here.[X]
 
 ## Ch6Goal
-Beware of Zonta and[N]
-seize the throne[X]
+Seize the castle[N]
+across the spit[X]
 
 ## Ch7Goal
-Kill Murray, stopping[N]
-his donation demands[X]
+Rout every bandit[N]
+blocking the pass[X]
 
 ## Ch8Goal
 Rout the enemy so[N]
