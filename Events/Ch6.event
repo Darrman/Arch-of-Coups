@@ -84,7 +84,7 @@ UNIT 0x80 Soldier 0x4B Level(1, Enemy, 1) [12,9] 0x00 0x00 0x0 0x00 [IronLance] 
 UNIT
 
 Rolante:
-UNIT Lise Recruit_2 0x00 Level(3, Ally, 0) [13,9] 0x00 0x00 0x0 0x00 [IronLance, Javelin] NoAI
+UNIT Lise Recruit_2 0x00 Level(3, Ally, 0) [13,9] 0x00 0x00 0x0 0x00 [IronLance, Javelin, Vulnerary] NoAI
 UNIT
 
 // Shop Data

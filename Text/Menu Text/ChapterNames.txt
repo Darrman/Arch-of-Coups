@@ -18,13 +18,13 @@ Ch. 4: Winding Swamp[X]
 Ch. 5: Arch of Coups[X]
 
 #0x167
-6: Fort of Bad[X]
+Ch. 6: Displacement[X]
 
 #0x168
-7: Port of Bad[X]
+Ch. 7: Bandit Pass[X]
 
 #0x169
-8: Yet Another Chapter[X]
+END OF FEE3 DEMO[X]
 
 #0x16a
 9: Tragic Backstory[X]

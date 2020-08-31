@@ -56,25 +56,25 @@ ALIGN 4
 BeginningScene:
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
-//Text(Ch7Opening)
+Text(Ch7Opening)
 ENDA
 
 EndingScene:
-//Text(Ch7Ending)
+Text(Ch7Ending)
 MNCH 0x08
 ENDA
 
 // Events
 House1:
-//Text
+Text(Ch7House1)
 ENDA
 
 House2:
-//Text
+Text(Ch7House2)
 ENDA
 
 House3:
-//Text
+Text(Ch7House3)
 ENDA
 
 Village1:
@@ -84,7 +84,7 @@ LOAD1 0x1 TheSundownKid
 ENDA
 
 Village2:
-//Text
+Text(Ch7Village2)
 SVAL 0x3 RedGem
 GIVEITEMTO 0xFFFF //Current
 ENDA
@@ -93,6 +93,7 @@ EnterSigurd:
 //Together we Ride
 LOAD1 0x1 LordZigludo
 CAM1 Sigurd
+Text(Ch7SigurdArrives)
 ENDA
 
 // Manual Movement
