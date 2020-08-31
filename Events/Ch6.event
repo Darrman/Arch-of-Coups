@@ -51,24 +51,26 @@ ALIGN 4
 BeginningScene:
 LOAD2 0x1 Units
 LOAD1 0x1 Bad
-Text(Ch6Opening)
+Text(Harbor,Ch6Opening)
 SVAL 0x3 Vulnerary
 GIVEITEMTO Mario
 ENDA
 
 EndingScene:
 LOAD1 0x1 Rolante
-Text(Ch6Ending)
+Text(Castle_Hall,Ch6Ending)
 MNCH 0x07
 ENDA
 
 // Events
 House1:
-Text(Ch6House1)
+Text(HouseBG,Ch6House1)
+NoFade
 ENDA
 
 House2:
-Text(Ch6House2)
+Text(HouseBG,Ch6House2)
+NoFade
 ENDA
 
 // Manual Movement
